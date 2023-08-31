@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm passionate about machine/deep learning, signal processing, languages, applied mathematics and other things.
 
 <!--
 **nipponjo/nipponjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
