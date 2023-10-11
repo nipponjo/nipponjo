@@ -6,9 +6,9 @@ I'm passionate about machine/deep learning, signal processing, languages, applie
 <a href="https://linkedin.com/in/lars-nippert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/lars-nippert" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nipponjo&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="nipponjo" width="340" /></p> 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=nipponjo&show_icons=true&locale=en&layout=compact" alt="nipponjo" width="340" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nipponjo&show_icons=true&locale=en&theme=highcontrast" alt="nipponjo" width="400" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nipponjo&show_icons=true&locale=en" alt="nipponjo" width="400" /></p>
 
 <!--
 **nipponjo/nipponjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
