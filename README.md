@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm passionate about machine/deep learning, signal processing, languages, applied mathematics and things of lower order.
+I'm passionate about machine/deep learning, signal processing, languages, applied mathematics and topics of lower order.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
