@@ -6,6 +6,8 @@ I'm passionate about machine/deep learning, signal processing, languages, applie
 <a href="https://linkedin.com/in/lars-nippert" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/lars-nippert" height="30" width="40" /></a>
 </p>
 
+![Code stats](https://github-readme-stats.vercel.app/api/top-langs?username=nipponjo&layout=compact&hide=jupyter%20notebook&theme=algolia&show_icons=true&langs_count=8)
+
 <!--
 **nipponjo/nipponjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
